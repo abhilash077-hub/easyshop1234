@@ -1,0 +1,146 @@
+[
+ {
+  "id": 1,
+  "title": "Men's Classic Denim Jacket",
+  "price": 1899,
+  "description": "A timeless denim jacket with a soft lining and a relaxed fit.",
+  "category": "men's clothing",
+  "image": "https://picsum.photos/seed/shopease1/500/600",
+  "rating": {
+   "rate": 3.6,
+   "count": 50
+  }
+ },
+ {
+  "id": 2,
+  "title": "Slim Fit Cotton Shirt",
+  "price": 899,
+  "description": "Breathable cotton shirt, perfect for office and weekends.",
+  "category": "men's clothing",
+  "image": "https://picsum.photos/seed/shopease2/500/600",
+  "rating": {
+   "rate": 4.5,
+   "count": 73
+  }
+ },
+ {
+  "id": 3,
+  "title": "Everyday Crew Neck Tee",
+  "price": 499,
+  "description": "Soft combed-cotton tee that keeps its shape wash after wash.",
+  "category": "men's clothing",
+  "image": "https://picsum.photos/seed/shopease3/500/600",
+  "rating": {
+   "rate": 4.0,
+   "count": 96
+  }
+ },
+ {
+  "id": 4,
+  "title": "Floral Summer Dress",
+  "price": 1499,
+  "description": "Lightweight floral dress with a flattering flared silhouette.",
+  "category": "women's clothing",
+  "image": "https://picsum.photos/seed/shopease4/500/600",
+  "rating": {
+   "rate": 4.9,
+   "count": 119
+  }
+ },
+ {
+  "id": 5,
+  "title": "Women's Rain Jacket",
+  "price": 1799,
+  "description": "Water-resistant hooded jacket with a packable design.",
+  "category": "women's clothing",
+  "image": "https://picsum.photos/seed/shopease5/500/600",
+  "rating": {
+   "rate": 4.4,
+   "count": 142
+  }
+ },
+ {
+  "id": 6,
+  "title": "Ribbed Knit Top",
+  "price": 699,
+  "description": "Stretchy ribbed top that pairs with everything.",
+  "category": "women's clothing",
+  "image": "https://picsum.photos/seed/shopease6/500/600",
+  "rating": {
+   "rate": 3.9,
+   "count": 165
+  }
+ },
+ {
+  "id": 7,
+  "title": "Gold Plated Bracelet",
+  "price": 1299,
+  "description": "Elegant bracelet with a polished gold-plated finish.",
+  "category": "jewelery",
+  "image": "https://picsum.photos/seed/shopease7/500/600",
+  "rating": {
+   "rate": 4.8,
+   "count": 188
+  }
+ },
+ {
+  "id": 8,
+  "title": "Rose Gold Owl Earrings",
+  "price": 799,
+  "description": "Playful pierced earrings in rose gold.",
+  "category": "jewelery",
+  "image": "https://picsum.photos/seed/shopease8/500/600",
+  "rating": {
+   "rate": 4.3,
+   "count": 211
+  }
+ },
+ {
+  "id": 9,
+  "title": "Pearl Drop Necklace",
+  "price": 1599,
+  "description": "Delicate pearl pendant on a fine chain.",
+  "category": "jewelery",
+  "image": "https://picsum.photos/seed/shopease9/500/600",
+  "rating": {
+   "rate": 3.8,
+   "count": 234
+  }
+ },
+ {
+  "id": 10,
+  "title": "1TB Portable SSD",
+  "price": 5999,
+  "description": "Fast pocket-size SSD with USB-C and shock resistance.",
+  "category": "electronics",
+  "image": "https://picsum.photos/seed/shopease10/500/600",
+  "rating": {
+   "rate": 4.7,
+   "count": 257
+  }
+ },
+ {
+  "id": 11,
+  "title": "Wireless Earbuds",
+  "price": 2499,
+  "description": "Bluetooth earbuds with 24-hour battery and clear calls.",
+  "category": "electronics",
+  "image": "https://picsum.photos/seed/shopease11/500/600",
+  "rating": {
+   "rate": 4.2,
+   "count": 280
+  }
+ },
+ {
+  "id": 12,
+  "title": "27-inch Monitor",
+  "price": 11999,
+  "description": "Full HD IPS monitor with ultra-thin bezels.",
+  "category": "electronics",
+  "image": "https://picsum.photos/seed/shopease12/500/600",
+  "rating": {
+   "rate": 3.7,
+   "count": 303
+  }
+ }
+]
